@@ -1,9 +1,9 @@
 def create_an_empty_array
-  my_array  = []
+  []
 end
 
 def create_an_array
-
+  my_array = ["dog", "cat","shoes", "babies" ]
 end
 
 def add_element_to_end_of_array(array, element)
@@ -33,3 +33,4 @@ end
 def retrieve_last_element_from_array(array)
 
 end
+
